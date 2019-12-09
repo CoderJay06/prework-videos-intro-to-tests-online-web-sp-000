@@ -16,7 +16,9 @@
 #   puts "Test failed: got #{answer} instead"
 # end
 
+require './conversions.rb'
 
+puts 'ounces to grams, when '
 
 
 
