@@ -18,7 +18,7 @@
 
 require './conversions.rb'
 
-puts 'ounces to grams, when '
+puts 'ounces to grams, when given 0, returns 0.0'
 
 
 
